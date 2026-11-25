@@ -1,5 +1,7 @@
 # Motion Capture Denoiser
 
+[![tests](https://github.com/rm9v27j9jv-collab/motion-capture-denoiser/actions/workflows/tests.yml/badge.svg)](https://github.com/rm9v27j9jv-collab/motion-capture-denoiser/actions/workflows/tests.yml)
+
 A 1D convolutional neural network that removes noise from motion-capture joint trajectories, compared honestly against classical signal-processing filters.
 
 Motion-capture data typically has two kinds of noise:
